@@ -1,0 +1,6 @@
+D:\proeti\03-Operators and Expressions\01-OddOrEvenIntegers\bin\Debug\01-OddOrEvenIntegers.exe.config
+D:\proeti\03-Operators and Expressions\01-OddOrEvenIntegers\bin\Debug\01-OddOrEvenIntegers.exe
+D:\proeti\03-Operators and Expressions\01-OddOrEvenIntegers\bin\Debug\01-OddOrEvenIntegers.pdb
+D:\proeti\03-Operators and Expressions\01-OddOrEvenIntegers\obj\Debug\01-OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\proeti\03-Operators and Expressions\01-OddOrEvenIntegers\obj\Debug\01-OddOrEvenIntegers.exe
+D:\proeti\03-Operators and Expressions\01-OddOrEvenIntegers\obj\Debug\01-OddOrEvenIntegers.pdb

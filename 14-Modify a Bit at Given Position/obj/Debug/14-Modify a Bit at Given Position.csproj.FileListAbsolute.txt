@@ -1,0 +1,5 @@
+D:\proeti\03-Operators and Expressions\14-Modify a Bit at Given Position\bin\Debug\14-Modify a Bit at Given Position.exe.config
+D:\proeti\03-Operators and Expressions\14-Modify a Bit at Given Position\bin\Debug\14-Modify a Bit at Given Position.exe
+D:\proeti\03-Operators and Expressions\14-Modify a Bit at Given Position\bin\Debug\14-Modify a Bit at Given Position.pdb
+D:\proeti\03-Operators and Expressions\14-Modify a Bit at Given Position\obj\Debug\14-Modify a Bit at Given Position.exe
+D:\proeti\03-Operators and Expressions\14-Modify a Bit at Given Position\obj\Debug\14-Modify a Bit at Given Position.pdb

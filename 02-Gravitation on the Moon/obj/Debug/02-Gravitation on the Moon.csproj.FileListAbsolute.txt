@@ -1,0 +1,5 @@
+D:\proeti\03-Operators and Expressions\02-Gravitation on the Moon\bin\Debug\02-Gravitation on the Moon.exe.config
+D:\proeti\03-Operators and Expressions\02-Gravitation on the Moon\bin\Debug\02-Gravitation on the Moon.exe
+D:\proeti\03-Operators and Expressions\02-Gravitation on the Moon\bin\Debug\02-Gravitation on the Moon.pdb
+D:\proeti\03-Operators and Expressions\02-Gravitation on the Moon\obj\Debug\02-Gravitation on the Moon.exe
+D:\proeti\03-Operators and Expressions\02-Gravitation on the Moon\obj\Debug\02-Gravitation on the Moon.pdb

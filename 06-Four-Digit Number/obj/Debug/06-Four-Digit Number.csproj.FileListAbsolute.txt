@@ -1,0 +1,5 @@
+D:\proeti\03-Operators and Expressions\06-Four-Digit Number\bin\Debug\06-Four-Digit Number.exe.config
+D:\proeti\03-Operators and Expressions\06-Four-Digit Number\bin\Debug\06-Four-Digit Number.exe
+D:\proeti\03-Operators and Expressions\06-Four-Digit Number\bin\Debug\06-Four-Digit Number.pdb
+D:\proeti\03-Operators and Expressions\06-Four-Digit Number\obj\Debug\06-Four-Digit Number.exe
+D:\proeti\03-Operators and Expressions\06-Four-Digit Number\obj\Debug\06-Four-Digit Number.pdb
